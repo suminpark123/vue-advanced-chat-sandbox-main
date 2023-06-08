@@ -8,4 +8,4 @@ npm install
 ```
 
 * WebSocket 사용
-* aws(Lamda,apiGateway) 사용
+* aws(Lambda,apiGateway) 사용
