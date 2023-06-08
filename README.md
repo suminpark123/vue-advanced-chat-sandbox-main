@@ -1,13 +1,11 @@
-# vue-advanced-chat-sandbox
+# vue_chat
 
-## Project setup
+채팅 웹
 
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
 
 ```
-npm run serve
-```
+
+* Websocket 사용
+* aws(Lamda,apiGateway) 사용
