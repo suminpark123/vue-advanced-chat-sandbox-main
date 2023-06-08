@@ -7,5 +7,5 @@ npm install
 
 ```
 
-* Websocket 사용
+* WebSocket 사용
 * aws(Lamda,apiGateway) 사용
